@@ -6,13 +6,14 @@ Cancer is a group of diseases that cause cells in the body to change and spread 
 
 It is estimated that around 40,610 women and 460 men died from breast cancer in 2017. Breast facing cancer death rates are highest in African American women. There is a more probability of effecting the breast cancer in women which are above 80 years of age. There are many stages in a breast cancer and the tumor which grows inside the body causes death. Those tumors are mainly of 2 kinds.
 
-      • Benign Tumor (Non-Cancerous) 
+• Benign Tumor (Non-Cancerous) 
      
-      Most of the breast changes are benign and they are not life-threatening. These tumor cells slowly grow locally and cannot spread all       over. Benign Tumor can be fully recovered by proper treatments. 
+Most of the breast changes are benign and they are not life-threatening. These tumor cells slowly grow locally and cannot spread all over.
+Benign Tumor can be fully recovered by proper treatments. 
+            
+• Malignant Tumor (Cancerous) 
       
-      • Malignant Tumor (Cancerous) 
-      
-      This kind of tumor is harmful and causes death when infected. These tumors grow so fast and spread to other surrounding tissues.
-   
-   I have used Breast Cancer Wisconsin (Diagnostic) Dataset to predict is the results here. Results are included in the document with the prediction accuracy.
+This kind of tumor is harmful and causes death when infected. These tumors grow so fast and spread to other surrounding tissues.  
+  
+I have used Breast Cancer Wisconsin (Diagnostic) Dataset to predict is the results here. Results are included in the document with the prediction accuracy.
    
